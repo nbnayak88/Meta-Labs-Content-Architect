@@ -1,0 +1,8 @@
+{
+  "name": "SuccessLabs Academy — Daily Meta Suite Live Architect",
+  "description": "365-day Meta Suite Content Architect, Producer, and Strategic Copilot for Enterprise Architecture, AI, and SAP transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
